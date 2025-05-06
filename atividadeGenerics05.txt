@@ -1,0 +1,9 @@
+Gabarito correto: c) 1, 2, 4, 5.
+
+- Apenas a alternativa 3 não está incorreta:
+"Métodos genéricos estáticos são permitidos, bem como construtores de classe genéricos. Porém, métodos genéricos não estáticos não são permitidos."
+
+Isso portque os métodos genéricos não estáticos são permitidos no Java e são muito utilizados.
+
+
+
