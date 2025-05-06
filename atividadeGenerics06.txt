@@ -1,0 +1,3 @@
+Alternativa C -> List<Discente> lstDiscente = new ArrayList<>();
+
+- O lado esquerdo declara a lista com tipo 'Discente', e o lado direito usa as setas '<>', que define o tipo.
